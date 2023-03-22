@@ -1,0 +1,4591 @@
+#!/bin/bash
+figlet LEX
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh#!/bin/bash
+figlet LEX
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
+read hhhh
+$hhhh
